@@ -13,9 +13,9 @@
 To build a CNN based model which can accurately detect melanoma. 
 
 ## General Information
-This is a an assignment done as part of Executive PG Programme in Machine Learning & AI - January 2023, offered by IIIT - Bangalore in association with Upgrad.
+This is an assignment done as part of Executive PG Programme in Machine Learning & AI - January 2023, offered by IIIT - Bangalore in association with Upgrad.
 
-Name: Prashanth Balakrishna
+Name: Ashish Chauhan, Deepika Venkatesh, Prashanth Balakrishna
 
 - What is the business probem that your project is trying to solve?
   
@@ -42,5 +42,5 @@ Name: Prashanth Balakrishna
 - Tensorflow
 - Keras
 - numpy
-- panda
+- pandas
 - matplotlib
